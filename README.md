@@ -2,7 +2,7 @@
 ## A website where you can add , edit and delete your blog post!!
 
 
-In this web development Project , i made a blog posting website with option to create , edit and delete a blog using pyton-based-django framework . Bootstrapped was to used for stylling.
+In this web development Project , i made a blog posting website with option to create , edit and delete a blog using pyton-based-django framework . Bootstrapping was used for stylling.
 
 
 Technologies used:
